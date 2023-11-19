@@ -1,4 +1,9 @@
 .red{
     background-color: rgb(255, 0, 0);
-    color: white;
+    color: white;   
+}
+
+.red img{
+    width: 500px;
+    
 }
