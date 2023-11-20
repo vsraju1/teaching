@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: block;
+    margin: 10px 40px;
+    background-color: rgb(183, 161, 204);
+    height: 13vh;
+    border-radius: 10px;
+}
+.both{
+    height: 68vh;
+    margin: 10px 40px;
+    /* background-color: aqua; */
+    border-radius: 10px;
+}
+.right{
+    display: inline-block;
+    width: 38vw;
+    height: 68vh;
+    background-color: brown;
+    margin-left: 9px;
+    border-radius: 10px;
+}
+.left{
+    display: inline-block;
+    width: 55vw;
+    height: 68vh;
+    background-color: bisque;
+    margin-right: 9px;
+    border-radius: 10px;
+}
+.footer{
+    display: block;
+    margin: 10px 40px;
+    background-color: blueviolet;
+    height: 13vh;
+    border-radius: 10px;
+}
